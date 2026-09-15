@@ -85,5 +85,5 @@ AirMouse interacts with the computer's mouse, keyboard, microphone, camera, and 
 
 Use the application responsibly and review the configured commands before use.
 
-Hepsibah Golla & Ashmit Chhajalana
+Hepsibha Golla & Ashmit Chhajalana
 
