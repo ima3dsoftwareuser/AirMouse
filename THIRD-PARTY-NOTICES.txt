@@ -1,0 +1,209 @@
+======================================================================
+AirMouse
+Third-Party Software Notices
+Version 1.0.0
+======================================================================
+
+AirMouse is open source software distributed by Hepsibah Golla & Ashmit Chhajalana.
+
+AirMouse incorporates or distributes third-party software components.
+Those components remain subject to their respective licenses.
+
+The open course AirMouse license does not replace or restrict the
+licenses applicable to third-party components.
+
+
+======================================================================
+1. OpenCV
+======================================================================
+
+Component:
+OpenCV / opencv-python / opencv-contrib-python
+
+Versions used:
+opencv-python 5.0.0.93
+opencv-contrib-python 5.0.0.93
+
+License:
+OpenCV: Apache License 2.0
+opencv-python packaging scripts: MIT License
+
+OpenCV:
+https://opencv.org/
+
+opencv-python:
+https://github.com/opencv/opencv-python
+
+The distributed OpenCV Python wheels contain additional third-party
+components with their own license terms.
+
+The OpenCV Python project states that its wheels include FFmpeg,
+which is licensed under LGPL v2.1, as well as other third-party
+components.
+
+The complete third-party license information distributed with the
+OpenCV Python package should be consulted for the applicable
+components.
+
+
+======================================================================
+2. MediaPipe
+======================================================================
+
+Component:
+MediaPipe
+
+Version:
+1.0.0
+
+License:
+Apache License 2.0
+
+Copyright:
+The MediaPipe Authors
+
+Project:
+https://github.com/google/mediapipe
+
+MediaPipe has its own third-party dependencies. Their respective
+licenses remain applicable.
+
+
+======================================================================
+3. NumPy
+======================================================================
+
+Component:
+NumPy
+
+Version:
+2.5.2
+
+License:
+Multiple licenses, including:
+
+- BSD 3-Clause
+- 0BSD
+- MIT
+- Zlib
+- CC0-1.0
+
+Project:
+https://numpy.org/
+
+NumPy includes bundled components that may have their own applicable
+license terms.
+
+
+======================================================================
+4. PyAutoGUI
+======================================================================
+
+Component:
+PyAutoGUI
+
+Version:
+0.9.54
+
+License:
+BSD License
+
+Copyright:
+Copyright (c) 2014, Al Sweigart
+
+Project:
+https://github.com/asweigart/pyautogui
+
+PyAutoGUI has dependencies that may have their own license terms.
+
+
+======================================================================
+5. PyAudioWPatch
+======================================================================
+
+Component:
+PyAudioWPatch
+
+Version:
+0.2.12.8
+
+License:
+MIT License
+
+Project:
+https://github.com/s0d3s/PyAudioWPatch
+
+PyAudioWPatch is a PyAudio-based package providing WASAPI loopback
+support.
+
+PortAudio and other included components may have their own copyright
+and license notices.
+
+
+======================================================================
+6. SpeechRecognition
+======================================================================
+
+Component:
+SpeechRecognition
+
+Version:
+3.17.0
+
+License:
+BSD 3-Clause License
+
+Copyright:
+Anthony Zhang (Uberi)
+
+Project:
+https://github.com/Uberi/speech_recognition
+
+SpeechRecognition distributes additional components, including
+language data and FLAC binaries, which have their own license terms.
+
+In particular, the distributed FLAC binaries are GPLv2-licensed.
+Those license terms apply to the FLAC binaries themselves.
+
+
+======================================================================
+7. Pyperclip
+======================================================================
+
+Component:
+Pyperclip
+
+Version:
+1.11.0
+
+License:
+BSD License
+
+Copyright:
+Al Sweigart
+
+Project:
+https://github.com/asweigart/pyperclip
+
+
+======================================================================
+IMPORTANT NOTICE
+======================================================================
+
+The above notices identify the direct third-party Python packages
+used by AirMouse.
+
+Third-party dependencies bundled within those packages may have
+additional copyright and license requirements.
+
+Users should consult the original license files distributed with
+the respective third-party packages for complete terms.
+
+AirMouse does not claim ownership of any third-party software.
+
+
+======================================================================
+AirMouse
+Copyright (c) 2026 Hepsibah Golla & Ashmit Chhajalana
+All rights reserved.
+======================================================================

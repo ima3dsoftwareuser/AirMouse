@@ -1,0 +1,123 @@
+AIR MOUSE — PROPRIETARY SOFTWARE LICENSE
+Version 1.0.0
+
+Copyright (c) 2026 [Hepsibah Golla & Ashmit Chhajalana] 
+All rights reserved.
+
+
+1. GRANT OF LICENSE
+
+Subject to the terms of this license, the copyright holder grants
+the user a limited, non-exclusive, non-transferable, revocable
+license to install and use AirMouse for personal or internal use.
+
+
+2. PERMITTED USE
+
+The user may:
+
+- Download AirMouse from an authorized distribution source.
+- Install AirMouse on devices they are authorized to use.
+- Use AirMouse for personal or internal purposes.
+- Make reasonable backup copies for their own personal use where
+  permitted by applicable law.
+
+
+3. RESTRICTIONS
+
+Unless expressly authorized in writing by the copyright holder,
+the user may not:
+
+- Redistribute, republish, or share copies of AirMouse.
+- Sell, rent, lease, sublicense, or otherwise commercially
+  distribute AirMouse.
+- Modify, adapt, translate, or create derivative versions of
+  AirMouse for distribution.
+- Repackage AirMouse for redistribution.
+- Remove or alter copyright, trademark, license, or attribution
+  notices.
+- Claim ownership of AirMouse or its original components.
+- Use AirMouse or its original components to create a competing
+  distributed product without written permission.
+
+
+4. OWNERSHIP
+
+AirMouse, including its original source code, application design,
+graphics, documentation, and other original materials, remains the
+property of the copyright holder.
+
+This license grants permission to use the software but does not
+transfer ownership or intellectual-property rights to the user.
+
+
+5. THIRD-PARTY SOFTWARE
+
+AirMouse incorporates or distributes third-party software and
+libraries.
+
+Those components remain subject to their respective copyright,
+license, and attribution terms.
+
+Nothing in this license grants ownership of third-party software.
+
+See THIRD-PARTY-NOTICES.txt for information about third-party
+components distributed with AirMouse.
+
+
+6. UPDATES
+
+The copyright holder may release updates, improvements, bug fixes,
+or new versions of AirMouse at their discretion.
+
+Future versions may be distributed under updated license terms.
+
+
+7. DISCLAIMER OF WARRANTY
+
+AirMouse is provided "AS IS" and, to the maximum extent permitted
+by applicable law, without warranties of any kind, express or
+implied.
+
+The copyright holder does not guarantee that the software will be
+error-free, uninterrupted, or suitable for every particular use.
+
+
+8. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the copyright
+holder shall not be liable for indirect, incidental, special,
+consequential, or other damages arising from or related to the use
+or inability to use AirMouse.
+
+
+9. TERMINATION
+
+This license automatically terminates if the user materially
+violates its terms.
+
+Upon termination, the user must stop using AirMouse and delete
+copies that they are not otherwise legally entitled to retain.
+
+
+10. APPLICABLE LAW
+
+This license shall be interpreted according to the laws applicable
+to the copyright holder, subject to applicable mandatory laws and
+legal rights of the user.
+
+
+11. CONTACT
+
+For licensing, redistribution, commercial-use, or other permission
+requests, contact:
+
+winkha.apps@gmail.com
+
+
+------------------------------------------------------------
+AirMouse
+Version 1.0.0
+Copyright (c) 2026 [Hepsibah Golla & Ashmit Chhajalana]
+All rights reserved.
+------------------------------------------------------------

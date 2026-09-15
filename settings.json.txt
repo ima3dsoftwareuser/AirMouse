@@ -1,0 +1,39 @@
+{
+    "ZONE_LEFT": 0.05,
+    "ZONE_RIGHT": 0.95,
+    "ZONE_TOP": 0.05,
+    "ZONE_BOTTOM": 0.95,
+
+    "pinch_threshold": 0.06,
+    "pinch_hold_time": 0.15,
+    "drag_start_time": 0.40,
+
+    "ring_pinch_threshold": 0.06,
+    "ring_pinch_hold_time": 0.15,
+
+    "middle_pinch_threshold": 0.06,
+    "scroll_dead_zone": 0.004,
+    "scroll_sensitivity": 180,
+
+    "task_view_touch_threshold": 0.11,
+    "task_view_hold_time": 0.80,
+    "task_view_spread_threshold": 0.20,
+
+    "MICROPHONE_ENABLED": true,
+
+    "MIC_ON_COMMAND": "microphone on",
+    "MIC_OFF_COMMAND": "microphone off",
+    "SEARCH_COMMAND": "enteredcomputer",
+
+    "CUSTOM_COMMANDS": {
+        "open youtube": "https://www.youtube.com",
+        "open google": "https://www.google.com",
+        "open amazon": "https://www.amazon.in"
+    },
+
+    "speech_energy_threshold": 300,
+    "speech_dynamic_energy_threshold": true,
+    "speech_pause_threshold": 0.7,
+    "speech_phrase_threshold": 0.3,
+    "speech_non_speaking_duration": 0.4
+}
