@@ -1,7 +1,7 @@
 AIR MOUSE — PROPRIETARY SOFTWARE LICENSE
 Version 1.0.0
 
-Copyright (c) 2026 [Hepsibah Golla & Ashmit Chhajalana] 
+Copyright (c) 2026 [Hepsibha Golla & Ashmit Chhajalana] 
 All rights reserved.
 
 
@@ -118,6 +118,6 @@ winkha.apps@gmail.com
 ------------------------------------------------------------
 AirMouse
 Version 1.0.0
-Copyright (c) 2026 [Hepsibah Golla & Ashmit Chhajalana]
+Copyright (c) 2026 [Hepsibha Golla & Ashmit Chhajalana]
 All rights reserved.
 ------------------------------------------------------------
