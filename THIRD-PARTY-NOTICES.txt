@@ -204,6 +204,6 @@ AirMouse does not claim ownership of any third-party software.
 
 ======================================================================
 AirMouse
-Copyright (c) 2026 Hepsibah Golla & Ashmit Chhajalana
+Copyright (c) 2026 Hepsibha Golla & Ashmit Chhajalana
 All rights reserved.
 ======================================================================
