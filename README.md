@@ -1,5 +1,6 @@
 **# AirMouse**
-
+# 📥 Download the App
+[![Download setup.exe](https://shields.io)](https://github.com/ima3dsoftwareuser/AirMouse/releases/download/1.0.0/AirMouseSetup.exe)
 
 
 **AirMouse is a Windows application that lets you control your computer using hand gestures, voice commands, and camera-based tracking.**
